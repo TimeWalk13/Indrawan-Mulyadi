@@ -2,7 +2,7 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Indrawan Mulyadi**.\
+Perkenalkan nama saya **Indrawan Mulyadi**
 
 Saya seorang **Mahasiswa di Universitas Bumigora Mataram**
 
